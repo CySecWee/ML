@@ -1,0 +1,14 @@
+{
+    "name": "Ama",
+    "details": {
+        "gender": "Male",
+        "age": "32",
+        "places_lived": ["Sri Lanka", "UK", "Belgium"],
+        "address": {
+            "streetaddress": "23, 1st Street",
+            "city": "Kandy",
+            "state": "LK",
+            "postalcode": "20400"}
+          
+        }
+}
